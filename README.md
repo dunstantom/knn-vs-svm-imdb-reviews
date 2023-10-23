@@ -1,7 +1,6 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Exploring KNN vs SVM via IMDB Reviews     
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+The notebook was copied from the notebook by Andrej Karpathy. Check it out here: https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+I added on to the original notebook with an application to IMDB reviews using sentence-level embeddings from `paraphrase-distilroberta-base-v1`. 
+I think the results provide a qualitative look at the usage of SVMs for semantic similarity. 
